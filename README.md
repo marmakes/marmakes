@@ -1,4 +1,9 @@
-## Hi there 👋
+<p align="center">
+  <img src="mariamaria.jpg.jpg" width="100%">
+</p>
+<p align="center">
+𓇼 ⋆｡˚ 𓆝
+</p>
 
 <!--
 **marmakes/marmakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
